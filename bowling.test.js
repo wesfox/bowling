@@ -1,7 +1,7 @@
-import { Bowling } from './bowling';
+import { Bowling } from "./bowling";
 
-describe('', () => {
-  it('', () => {
-    expect(1 == 1).toBe(true);
+describe("", () => {
+  it("", () => {
+    expect(1).toEqual(0);
   });
 });

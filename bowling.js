@@ -1,9 +1,9 @@
 export class Bowling {
   roll(pins) {
-    // return the score
+    // roll n pins
   }
 
   score() {
-    // roll n pins
+    // return the score
   }
 }
