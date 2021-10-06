@@ -26,5 +26,3 @@ describe('', () => {
   });
 });
 ```
-
-https://www.notion.so/m33/Pair-Programming-feb337ef254f4c87960b9ec32ab2552a
